@@ -6,7 +6,7 @@
 | [ban-ban-don](https://github.com/kijimaD/ban-ban-don)                       | Imitation of an existing shooting game                                                               | Ruby       |     0 |    1 |    357 |
 | [bash](https://github.com/kijimaD/bash)                                     |                                                                                                      | Shell      |     0 |    0 |     16 |
 | [bs4simple](https://github.com/kijimaD/bs4simple)                           | Dokuwiki original theme(use Bootstrap4).                                                             | Less       |     2 |    8 |     73 |
-| [central](https://github.com/kijimaD/central)                               | datastore of act                                                                                     |            |     0 |    0 |     10 |
+| [central](https://github.com/kijimaD/central)                               | datastore of act                                                                                     |            |     0 |    0 |     11 |
 | [cloner](https://github.com/kijimaD/cloner)                                 | Literate git clone                                                                                   | Rust       |     0 |    0 |     10 |
 | [command-analyze-mode](https://github.com/kijimaD/command-analyze-mode)     | key optimization hint for Emacs                                                                      | Emacs Lisp |     0 |    0 |      1 |
 | [coverage_to_slack](https://github.com/kijimaD/coverage_to_slack)           |                                                                                                      | Shell      |     0 |    0 |      7 |
