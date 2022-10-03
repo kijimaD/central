@@ -12,8 +12,6 @@ jobs:
   act:
     name: Generate stats using act
     runs-on: ubuntu-latest
-    env:
-      GH_TOKEN: ${{ secrets.WRITE_PACKAGE }}
     steps:
       - name: Check out source code
         uses: actions/checkout@v3
@@ -21,5 +19,6 @@ jobs:
       - name: Run act
         run: |
           docker run --rm \
-           -v "${PWD}":/workdir \
-           ghcr.io/kijimad/act:latest
+            -e GH_TOKEN=${{ secrets.WRITE_PACKAGE }} \
+            -v "${PWD}":/workdir \
+            ghcr.io/kijimad/act:latest
