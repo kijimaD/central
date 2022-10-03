@@ -21,6 +21,5 @@ jobs:
       - name: Run act
         run: |
           docker run --rm \
-           -it \
            -v "${PWD}":/workdir \
            ghcr.io/kijimad/act:latest
