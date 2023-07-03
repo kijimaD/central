@@ -1,7 +1,7 @@
 # central
 
 - 93 public repos
-- 11720 commits
+- 11733 commits
 
 |                                                  Lang                                                   | Repo |  %  | Commit |  %  |
 |---------------------------------------------------------------------------------------------------------|------|-----|--------|-----|
@@ -9,13 +9,13 @@
 | ![CSS](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/CSS.svg) CSS                      |    1 | 1%  |     53 | 0%  |
 | ![Dockerfile](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Dockerfile.svg) Dockerfile |    3 | 3%  |     14 | 0%  |
 | ![Emacs Lisp](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Emacs-Lisp.svg) Emacs Lisp |    9 | 9%  |   1903 | 16% |
-| ![Go](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Go.svg) Go                         |   21 | 22% |   1102 | 9%  |
+| ![Go](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Go.svg) Go                         |   21 | 22% |   1103 | 9%  |
 | ![Haskell](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Haskell.svg) Haskell          |    1 | 1%  |      4 | 0%  |
-| ![JSON](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/JSON.svg) JSON                   |    1 | 1%  |   2603 | 22% |
+| ![JSON](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/JSON.svg) JSON                   |    1 | 1%  |   2608 | 22% |
 | ![JavaScript](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/JavaScript.svg) JavaScript |    9 | 9%  |    260 | 2%  |
 | ![Less](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Less.svg) Less                   |    1 | 1%  |     73 | 0%  |
 | ![Makefile](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Makefile.svg) Makefile       |    2 | 2%  |     36 | 0%  |
-| ![None](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/None.svg) None                   |    5 | 5%  |   1878 | 16% |
+| ![None](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/None.svg) None                   |    5 | 5%  |   1885 | 16% |
 | ![PHP](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/PHP.svg) PHP                      |    4 | 4%  |    252 | 2%  |
 | ![Python](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Python.svg) Python             |    3 | 3%  |    198 | 1%  |
 | ![Ruby](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Ruby.svg) Ruby                   |   19 | 20% |   1518 | 12% |
@@ -31,7 +31,7 @@
 | [my_dokuwiki_style](https://github.com/kijimaD/my_dokuwiki_style)           | Dokuwiki-theme by Bootstrap. No configurable.                              | ![CSS](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/CSS.svg) CSS                      |     53 |    0 |    0 |
 | [gin_hello](https://github.com/kijimaD/gin_hello)                           |                                                                            | ![Dockerfile](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Dockerfile.svg) Dockerfile |      5 |    0 |    0 |
 | [hyperline](https://github.com/kijimaD/hyperline)                           |                                                                            | ![Dockerfile](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Dockerfile.svg) Dockerfile |      5 |    0 |    0 |
-| [homebrew-tap](https://github.com/kijimaD/homebrew-tap)                     |                                                                            | ![Dockerfile](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Dockerfile.svg) Dockerfile |      4 |    0 |    0 |
+| [homebrew-tap](https://github.com/kijimaD/homebrew-tap)                     | Homebrew recipes                                                           | ![Dockerfile](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Dockerfile.svg) Dockerfile |      4 |    0 |    0 |
 | [my_elisp](https://github.com/kijimaD/my_elisp)                             | Emacs Lisp snippets                                                        | ![Emacs Lisp](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Emacs-Lisp.svg) Emacs Lisp |     38 |    0 |    0 |
 | [ob-git-permalink](https://github.com/kijimaD/ob-git-permalink)             | Import GitHub code given a permalink                                       | ![Emacs Lisp](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Emacs-Lisp.svg) Emacs Lisp |     33 |    4 |    1 |
 | [.emacs.d](https://github.com/kijimaD/.emacs.d)                             | Emacs settings                                                             | ![Emacs Lisp](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Emacs-Lisp.svg) Emacs Lisp |    648 |    0 |    0 |
@@ -51,7 +51,7 @@
 | [my_monkey](https://github.com/kijimaD/my_monkey)                           | practice "Writing An Interpreter In Go"                                    | ![Go](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Go.svg) Go                         |     69 |    0 |    0 |
 | [my_go](https://github.com/kijimaD/my_go)                                   | Go snippets                                                                | ![Go](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Go.svg) Go                         |     99 |    0 |    0 |
 | [gar](https://github.com/kijimaD/gar)                                       | easy code review reply                                                     | ![Go](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Go.svg) Go                         |     76 |    0 |    0 |
-| [garbanzo](https://github.com/kijimaD/garbanzo)                             | garbanzo is Fast Notification Viewer!                                      | ![Go](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Go.svg) Go                         |    234 |    1 |    0 |
+| [garbanzo](https://github.com/kijimaD/garbanzo)                             | garbanzo is Fast Notification Viewer!                                      | ![Go](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Go.svg) Go                         |    235 |    2 |    0 |
 | [gclone](https://github.com/kijimaD/gclone)                                 | Literate git clone                                                         | ![Go](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Go.svg) Go                         |     62 |    0 |    0 |
 | [minijvm](https://github.com/kijimaD/minijvm)                               | implement minimal JVM                                                      | ![Go](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Go.svg) Go                         |     17 |    0 |    0 |
 | [maru](https://github.com/kijimaD/maru)                                     | language SVG icons                                                         | ![Go](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Go.svg) Go                         |     24 |    0 |    0 |
@@ -63,7 +63,7 @@
 | [gorun](https://github.com/kijimaD/gorun)                                   | task runner like GitHub Actions syntax                                     | ![Go](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Go.svg) Go                         |     51 |    0 |    0 |
 | [goweb](https://github.com/kijimaD/goweb)                                   | memo『Goプログラミング実践入門』                                           | ![Go](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Go.svg) Go                         |     11 |    0 |    0 |
 | [my_haskell](https://github.com/kijimaD/my_haskell)                         |                                                                            | ![Haskell](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Haskell.svg) Haskell          |      4 |    0 |    0 |
-| [roam_upptime](https://github.com/kijimaD/roam_upptime)                     | 📈 Uptime monitor and status page for Kijima Daigo, powered by @upptime    | ![JSON](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/JSON.svg) JSON                   |   2603 |    0 |    0 |
+| [roam_upptime](https://github.com/kijimaD/roam_upptime)                     | 📈 Uptime monitor and status page for Kijima Daigo, powered by @upptime    | ![JSON](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/JSON.svg) JSON                   |   2608 |    0 |    0 |
 | [math_cafe](https://github.com/kijimaD/math_cafe)                           |                                                                            | ![JavaScript](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/JavaScript.svg) JavaScript |     64 |    0 |    0 |
 | [pure_react_practice](https://github.com/kijimaD/pure_react_practice)       |                                                                            | ![JavaScript](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/JavaScript.svg) JavaScript |     20 |    0 |    0 |
 | [gql-sample](https://github.com/kijimaD/gql-sample)                         |                                                                            | ![JavaScript](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/JavaScript.svg) JavaScript |      1 |    0 |    0 |
@@ -78,8 +78,8 @@
 | [go_skel](https://github.com/kijimaD/go_skel)                               | Go template repository                                                     | ![Makefile](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Makefile.svg) Makefile       |     25 |    0 |    0 |
 | [games](https://github.com/kijimaD/games)                                   | game dotfiles                                                              | ![None](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/None.svg) None                   |      2 |    0 |    0 |
 | [cover](https://github.com/kijimaD/cover)                                   | golang/go coverage                                                         | ![None](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/None.svg) None                   |      6 |    0 |    0 |
-| [kijimaD](https://github.com/kijimaD/kijimaD)                               | profile page                                                               | ![None](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/None.svg) None                   |   1515 |    0 |    0 |
-| [central](https://github.com/kijimaD/central)                               | datastore of act                                                           | ![None](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/None.svg) None                   |    289 |    0 |    0 |
+| [kijimaD](https://github.com/kijimaD/kijimaD)                               | profile page                                                               | ![None](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/None.svg) None                   |   1521 |    0 |    0 |
+| [central](https://github.com/kijimaD/central)                               | datastore of act                                                           | ![None](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/None.svg) None                   |    290 |    0 |    0 |
 | [handbook](https://github.com/kijimaD/handbook)                             |                                                                            | ![None](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/None.svg) None                   |     66 |    1 |    0 |
 | [tosoapp](https://github.com/kijimaD/tosoapp)                               | Web system for used purchase                                               | ![PHP](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/PHP.svg) PHP                      |    228 |    0 |    0 |
 | [doku_wc](https://github.com/kijimaD/doku_wc)                               | Daily word count script                                                    | ![PHP](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/PHP.svg) PHP                      |      7 |    0 |    0 |
